@@ -1,0 +1,14 @@
+{
+  "name": "require-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parent.js",
+  "dependencies": {
+    "@types/node": "^14.6.4"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.js"
+    ]
+  }
+}
